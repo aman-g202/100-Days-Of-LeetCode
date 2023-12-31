@@ -1,4 +1,4 @@
-/* minimum amount needed to exchange items to get A behalf of D */
+/* Minimum amount needed to exchange items for A on behalf of D */
 
 /**
  * @param {{[key: string]: number | null}} costs
