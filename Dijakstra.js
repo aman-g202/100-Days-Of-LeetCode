@@ -81,6 +81,6 @@ function dijakstra(exchangeItem) {
   /* Logging process ends */
 }
 
-dijakstra("D");
-dijakstra("B");
-dijakstra("C");
+dijakstra("D"); // Exchange for D
+dijakstra("B"); // Exchange for B
+dijakstra("C"); // Exchange for C
